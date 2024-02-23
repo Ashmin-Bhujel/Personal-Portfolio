@@ -14,5 +14,6 @@ console.log(portfolioWebsite.url);
 
 ```bash
 > node script.js
-> https://www.ashmin-bhujel.github.io/Personal-Portfolio
+
+> https://ashminbhujel.com.np/
 ```
