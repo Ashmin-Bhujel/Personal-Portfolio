@@ -20,8 +20,9 @@ contactBtn.addEventListener("click", renderContactPage);
 
 // Functions
 // Renderer
+const XHR = new XMLHttpRequest();
+
 function Renderer(page) {
-  const XHR = new XMLHttpRequest();
   XHR.open("GET", page, true);
   XHR.send();
 
