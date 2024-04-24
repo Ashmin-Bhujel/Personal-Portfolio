@@ -3,67 +3,57 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="Personal portfolio website of Ashmin Bhujel. Don't expect too much..."
-    />
+    <meta name="description" content="Web Technology I Final Project" />
     <meta name="author" content="ashmin-bhujel" />
 
-    <title>Ashmin Bhujel - Personal Portfolio</title>
+    <title>Web Technology I Final Project</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="./assets/favicon.png" type="image/x-icon" />
 
-    <!-- Google Font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-      rel="stylesheet"
-    />
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css" />
 
-    <!-- Font Awesome -->
+    <!-- Font awesome -->
     <script
       src="https://kit.fontawesome.com/0f03b1c93a.js"
       crossorigin="anonymous"
     ></script>
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="./style/style.css" />
   </head>
 
   <body>
-    <main class="container">
-      <!-- Hello! -->
-      <img
-        src="./images/hello.gif"
-        alt="Hello from fluffy duck"
-        class="hello-world-gif"
-      />
+    <main>
+      <!-- Header -->
+      <header class="container">
+        <div id="page-header">
+          <h1 id="page-heading">WEB TECHNOLOGY I</h1>
+          <p>Final Project ( HTML | CSS | JS )</p>
+        </div>
 
-      <!-- My Info -->
-      <section class="my-info">
-        <p class="hello-world">
-          <i class="fa-solid fa-code"></i>
-          HELLO, WORLD!
-          <i class="fa-solid fa-code"></i>
-        </p>
+        <!-- Navbar -->
+        <nav>
+          <ul class="text-md">
+            <li id="home-btn">Home</li>
+            <li id="about-me-btn">About Me</li>
+            <li id="skills-btn">Skills</li>
+            <li id="photographs-btn">Photographs</li>
+            <li class="btn-dark" id="contact-btn">Contact</li>
+          </ul>
+        </nav>
+      </header>
 
-        <p class="my-info-text">
-          <i class="fa-solid fa-screwdriver-wrench"></i>
-          <b>PORTFOLIO WEBSITE UNDER CONSTRUCTION</b>
-          <i class="fa-solid fa-screwdriver-wrench"></i>
-        </p>
+      <!-- Content -->
+      <div class="content container"></div>
 
-        <p class="my-info-text">YOU CAN FIND ME IN THESE PLATFORMS</p>
+      <!-- Footer -->
+      <footer class="container">
+        <div class="footer-header">
+          <p class="footer-heading">Web Technology I</p>
+          <p class="footer-sub-heading">Final Project</p>
+        </div>
 
-        <p class="my-info-text">BUT DON'T EXPECT TOO MUCH...</p>
-
-        <p class="my-info-text">@ashmin-bhujel</p>
-
-        <!-- Socials -->
-        <div class="socials">
-          <ul class="links">
+        <div class="social-handles">
+          <ul>
             <!-- GitHub -->
             <li>
               <a
@@ -113,15 +103,14 @@
             </li>
           </ul>
         </div>
-      </section>
+
+        <p class="footer-copyright">
+          &copy; <span class="year">2024</span> Ashmin Bhujel
+        </p>
+      </footer>
     </main>
 
     <!-- JavaScript -->
-    <script>
-      console.warn(
-        "%cWhat? Did you expect to find something here? I told you not to expect too much... 😝",
-        "background-color: #222222; color: #eef5ff; padding: 2rem; font-family: monospace; font-size: 20px; text-align: center;"
-      );
-    </script>
+    <script src="./script.js"></script>
   </body>
 </html>

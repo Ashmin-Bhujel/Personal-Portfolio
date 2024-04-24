@@ -1,0 +1,119 @@
+<div class="section">
+  <p class="section-heading text-lg">Photographs</p>
+  <div class="section-card-container">
+    <div class="card">
+      <img
+        src="./assets/image01.jpeg"
+        alt="Nagarkot Tower"
+        class="card-image"
+      />
+      <div class="card-body">
+        <p class="card-heading">Nagarkot Tower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img
+        src="./assets/image02.jpeg"
+        alt="Stone Structure"
+        class="card-image"
+      />
+      <div class="card-body">
+        <p class="card-heading">Stone Structure</p>
+      </div>
+    </div>
+    <div class="card">
+      <img
+        src="./assets/image03.jpeg"
+        alt="Stone Structure"
+        class="card-image"
+      />
+      <div class="card-body">
+        <p class="card-heading">Stone Structure</p>
+      </div>
+    </div>
+    <div class="card">
+      <img
+        src="./assets/image04.jpeg"
+        alt="Guras Flower Tree"
+        class="card-image"
+      />
+      <div class="card-body">
+        <p class="card-heading">Guras Flower Tree</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image05.jpeg" alt="Guras Flower" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Guras Flower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image06.jpeg" alt="Guras Flower" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Guras Flower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image07.jpeg" alt="Green Tree" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Green Tree</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image08.jpeg" alt="Sidhhapokhari" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Sidhhapokhari</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image09.jpeg" alt="Sidhhapokhari" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Sidhhapokhari</p>
+      </div>
+    </div>
+    <div class="card">
+      <img
+        src="./assets/image10.jpeg"
+        alt="Bell Shaped Flower"
+        class="card-image"
+      />
+      <div class="card-body">
+        <p class="card-heading">Bell Shaped Flower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image11.jpeg" alt="Rose Flower" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Rose Flower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image12.jpeg" alt="White Flower" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">White Flower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image13.jpg" alt="Green Plant" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Green Plant</p>
+      </div>
+    </div>
+    <div class="card">
+      <img
+        src="./assets/image14.jpeg"
+        alt="Plum Blossoms Flower"
+        class="card-image"
+      />
+      <div class="card-body">
+        <p class="card-heading">Plum Blossoms Flower</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./assets/image15.jpg" alt="Milk Tea" class="card-image" />
+      <div class="card-body">
+        <p class="card-heading">Milk Tea</p>
+      </div>
+    </div>
+  </div>
+</div>

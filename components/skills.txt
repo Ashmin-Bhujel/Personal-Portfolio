@@ -1,0 +1,54 @@
+<div class="section">
+  <p class="section-heading text-lg">Skills</p>
+  <div class="section-card-container">
+    <div class="card">
+      <i class="fa-brands fa-html5 card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">HTML5</p>
+        <p class="card-body">Intermediate</p>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fa-brands fa-css3-alt card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">CSS3</p>
+        <p class="card-body">Intermediate</p>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fa-brands fa-square-js card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">JavaScript</p>
+        <p class="card-body">Intermediate</p>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fa-brands fa-git-alt card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">Git</p>
+        <p class="card-body">Basics</p>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fa-brands fa-github card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">GitHub</p>
+        <p class="card-body">Basics</p>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fa-brands fa-windows card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">Windows</p>
+        <p class="card-body">Basics</p>
+      </div>
+    </div>
+    <div class="card">
+      <i class="fa-brands fa-linux card-icon"></i>
+      <div class="card-body">
+        <p class="card-heading">Linux</p>
+        <p class="card-body">Basics</p>
+      </div>
+    </div>
+  </div>
+</div>

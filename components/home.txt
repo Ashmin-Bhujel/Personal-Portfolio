@@ -1,0 +1,22 @@
+<div class="section">
+  <p class="section-heading text-lg">Web Technology I</p>
+  <div class="section-body">
+    <p>
+      This web application is final lab project of Web Technology I. Built using
+      basic web development technologies like HTML, CSS, JavaScript.
+    </p>
+    <p>
+      You can navigate to various section of the web application using the
+      provided navigation links.
+    </p>
+    <p>Some of the technologies/concepts used while building this project.</p>
+  </div>
+  <ul class="list">
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Google Fonts</li>
+    <li>Fonts Awesome Icons</li>
+    <li>AJAX</li>
+  </ul>
+</div>

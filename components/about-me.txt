@@ -1,0 +1,20 @@
+<div class="section">
+  <p class="section-heading text-lg">About Me</p>
+  <div class="section-body">
+    <p>
+      Hello, My name is Ashmin Bhujel. I'm currently studying BIT (Bachelors in
+      Information Technology) at Bhaktapur Multiple Campus.
+    </p>
+    <p>
+      I'm currently learning Web Devlopment and Music Production (as Hobby).
+    </p>
+    <p>
+      I like to explore computer technologies and make something out of what
+      I've learned together with my friends.
+    </p>
+    <p>
+      I also like to listening to music, watching movies (Sci-Fi, Animation,
+      Romance, Biopic), anime and sometimes K-Drama also.
+    </p>
+  </div>
+</div>
