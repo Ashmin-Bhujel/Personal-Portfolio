@@ -19,7 +19,6 @@
 a {
   text-decoration: none;
   cursor: pointer;
-  color: var(--dark-color);
 }
 
 ul:not(.list) {
@@ -54,23 +53,27 @@ header {
 }
 
 #page-heading {
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  font-weight: bold;
   cursor: pointer;
 }
 
 /* Nav */
-nav li {
+nav button {
+  background-color: transparent;
+  border: none;
+  outline: none;
   cursor: pointer;
   transition: color, text-decoration;
   transition-duration: 250ms;
   transition-timing-function: ease-in-out;
 }
 
-nav li:hover,
-nav li.btn-dark:hover {
+nav button:hover {
   color: var(--primary-color);
-}
-
-nav li:not(.btn-dark):hover {
   text-decoration: underline;
   text-underline-offset: 0.5em;
   text-decoration-thickness: 2px;
@@ -284,7 +287,7 @@ footer i:hover {
     font-weight: 400;
   }
 
-  nav li:not(.btn-dark):hover {
+  nav button:hover {
     text-decoration: none;
   }
 }
