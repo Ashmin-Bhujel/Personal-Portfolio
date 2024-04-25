@@ -183,6 +183,10 @@ textarea {
   padding: 0.5rem 1rem;
 }
 
+textarea {
+  resize: vertical;
+}
+
 /* Footer */
 footer {
   background-color: var(--dark-color);

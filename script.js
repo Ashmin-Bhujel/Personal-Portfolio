@@ -62,7 +62,7 @@ function renderContactPage() {
       event.preventDefault();
 
       alert(
-        `Thank you ${firstName.value} for your message will get in touch with you soon.`
+        `Thank you ${firstName.value} for your message. Will get in touch with you soon.`
       );
     });
   }, 500);
