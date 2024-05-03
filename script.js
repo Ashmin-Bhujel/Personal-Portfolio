@@ -62,7 +62,7 @@ function renderContactPage() {
       event.preventDefault();
 
       alert(
-        `Thank you ${firstName.value} for your message. This is demo contact for but thank you for visit.`
+        `Thank you ${firstName.value} for your message. This is a demo contact form but thank you for visit.`
       );
     });
   }, 500);
