@@ -1,22 +1,21 @@
 <div class="section">
-  <p class="section-heading text-lg">Web Technology I</p>
+  <hr />
+  <br />
+  <p class="section-heading text-lg">Homepage</p>
+  <hr />
+  <br />
   <div class="section-body">
     <p>
-      This web application is final lab project of Web Technology I. Built using
+      The personal portfolio website of ashmin-bhujel. Built using
       basic web development technologies like HTML, CSS, JavaScript.
     </p>
     <p>
-      You can navigate to various section of the web application using the
+      You can navigate to various section of the website using the
       provided navigation links.
     </p>
-    <p>Some of the technologies/concepts used while building this project.</p>
   </div>
-  <ul class="list">
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Google Fonts</li>
-    <li>Fonts Awesome Icons</li>
-    <li>AJAX</li>
-  </ul>
+  <br />
+  <hr />
+  <br />
+  <p>I know there is not much right now in here to see. Gonna add more things soon...</p>
 </div>

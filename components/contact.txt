@@ -1,5 +1,10 @@
 <div class="section">
+  <hr />
+  <br />
   <p class="section-heading text-lg">Contact</p>
+  <br />
+  <hr />
+  <br />
   <form action="index.html" method="get">
     <fieldset>
       <legend>Get In Touch</legend>
@@ -44,4 +49,6 @@
       <input type="submit" value="Submit" class="btn-primary" />
     </fieldset>
   </form>
+  <br />
+  <hr />
 </div>

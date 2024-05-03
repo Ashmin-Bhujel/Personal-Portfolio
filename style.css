@@ -95,7 +95,6 @@ nav button:hover {
   text-transform: uppercase;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 2px var(--dark-color);
-  margin-bottom: 2rem;
 }
 
 .section-body,
@@ -222,6 +221,16 @@ footer i {
 
 footer i:hover {
   color: var(--primary-color);
+}
+
+.social-handles {
+  padding: 0.5rem 0;
+}
+
+.social-handles ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
 }
 
 .footer-copyright {

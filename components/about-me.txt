@@ -1,5 +1,9 @@
 <div class="section">
+  <hr />
+  <br />
   <p class="section-heading text-lg">About Me</p>
+  <hr />
+  <br />
   <div class="section-body">
     <p>
       Hello, My name is Ashmin Bhujel. I'm currently studying BIT (Bachelors in
@@ -16,5 +20,17 @@
       I also like to listening to music, watching movies (Sci-Fi, Animation,
       Romance, Biopic), anime and sometimes K-Drama also.
     </p>
+    <br />
+    <hr />
+    <br />
+    <p>Currently I'm learning</p>
+    <ul class="list">
+      <li>Web Development</li>
+      <li>Music Production (Hobby)</li>
+      <li>Photography (Hobby)</li>
+      <li>To live life fully</li>
+    </ul>
+    <br />
+    <hr />
   </div>
 </div>

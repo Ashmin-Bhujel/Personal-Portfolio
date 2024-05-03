@@ -1,5 +1,10 @@
 <div class="section">
+  <hr />
+  <br />
   <p class="section-heading text-lg">Photographs</p>
+  <br />
+  <hr />
+  <br />
   <div class="section-card-container">
     <div class="card">
       <img
@@ -116,4 +121,6 @@
       </div>
     </div>
   </div>
+  <br />
+  <hr />
 </div>

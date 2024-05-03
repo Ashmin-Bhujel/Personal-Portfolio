@@ -1,5 +1,10 @@
 <div class="section">
+  <hr />
+  <br />
   <p class="section-heading text-lg">Skills</p>
+  <br />
+  <hr />
+  <br />
   <div class="section-card-container">
     <div class="card">
       <i class="fa-brands fa-html5 card-icon"></i>
@@ -51,4 +56,6 @@
       </div>
     </div>
   </div>
+  <br />
+  <hr />
 </div>
