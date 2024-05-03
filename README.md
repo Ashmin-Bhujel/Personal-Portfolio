@@ -1,3 +1,5 @@
-# Web Technology Final Project
+# Personal Portfolio
 
-A Simple web application built using HTML, CSS and JavaScript.
+A Simple personal portfolio website built using HTML, CSS and JavaScript.
+
+ashmin-bhujel
